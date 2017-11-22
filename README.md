@@ -16,7 +16,7 @@ Je kunt deze Angular applicatie gemakkelijk op Heroku of een andere cloudprovide
 
 > Je Angular app gaat connectie maken met een backend om data op te halen. Onze app werkt met users uit de Mongodb database die via de API van de [node-mongodb-server](https://github.com/avansinformatica/node-mongodb-server) beschikbaar is. Je kunt natuurlijk ook een andere server maken, zolang die maar de juiste API aanbiedt voor jouw Angular frontend.  
 > Je configureert de URL van de externe server in het bestand [environment.prod.ts](https://github.com/avansinformatica/angular-starterpack/blob/master/src/environments/environment.prod.ts).
-> Vul daarin de URL van jouw Nodejs instantie op bijvoorbeeld Heroku in. 
+> Vul daarin de URL van jouw Nodejs instantie op bijvoorbeeld Heroku in. Doe dat lokaal, op je eigen laptop, en push je wijzigingen naar je eigen repository. **Niet online wijzigen op GitHub!**
 
 ### Een app op Heroku
 Om een app in de Heroku cloud te draaien doe je het volgende.
